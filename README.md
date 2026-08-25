@@ -1,6 +1,6 @@
-# ✦ Star Dodger — Customizable Edition
+# ✦ Star Dodger
 
-A slick, fully customizable 2D browser game built with plain HTML5 Canvas + vanilla JavaScript. No frameworks, no build step, no dependencies — one file, drop it anywhere. Move your ship left and right to dodge falling hazards, catch bonus stars for combo points, grab power-ups, and survive as the game ramps up in intensity.
+A slick 2D browser game built with plain HTML5 Canvas + vanilla JavaScript. No frameworks, no build step, no dependencies — one file, drop it anywhere. Move your ship left and right to dodge falling hazards, catch bonus stars for combo points, grab power-ups, and survive as the game ramps up in intensity.
 
 ## Play it
 
