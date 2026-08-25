@@ -15,8 +15,6 @@ Or enable **GitHub Pages** on this repo (Settings → Pages → deploy from the 
 
 ## Customization panel
 
-Everything is adjustable live from the side panel, and your picks are remembered between sessions via `localStorage`:
-
 - **Ship Color** — 6 glowing color options
 - **Ship Shape** — Fighter (triangle), Orb (disc), or Diamond
 - **Difficulty** — Chill / Normal / Insane, each with its own fall speed, spawn rate, and ramp curve
@@ -37,15 +35,8 @@ Everything is adjustable live from the side panel, and your picks are remembered
 - **Progressive difficulty** — fall speed and spawn rate increase the longer you survive
 - **Persistent best score** and saved customization settings across sessions
 
-## How it works
 
-Everything lives in a single `index.html` file:
-- A `<canvas>` element is the game surface, `requestAnimationFrame` drives the loop
-- Falling shapes and power-ups spawn on timers that tighten over time
-- Simple AABB collision detection between the ship, hazards, and power-ups
-- All customization state lives in a plain JS object and persists via `localStorage`
-
-## Ideas to extend it further
+## Future Ideas to extend it further
 
 - Add sound effects / background music
 - Add more ship shapes or unlockable skins tied to score milestones
