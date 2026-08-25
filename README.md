@@ -4,7 +4,7 @@ A slick, fully customizable 2D browser game built with plain HTML5 Canvas + vani
 
 ## Play it
 
-Just open in any modern browser.
+Just open https://stardodge.netlify.app in any modern browser.
 
 Or enable **GitHub Pages** on this repo (Settings → Pages → deploy from the branch/root) and share the live link with anyone.
 
